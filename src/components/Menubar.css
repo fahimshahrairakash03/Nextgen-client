@@ -1,0 +1,33 @@
+.menuicon {
+  height: 20px;
+}
+.menuItem:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+.menutext {
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 27px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+.dropdowntext {
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+@media screen and (max-width: 700px) {
+  .menubar {
+  }
+}

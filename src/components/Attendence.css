@@ -1,0 +1,14 @@
+.attendanceBox {
+  width: 200px;
+  height: 70px;
+  left: 566px;
+  top: 319px;
+
+  /* White/100% */
+
+  background: #ffffff;
+  /* Black/20% */
+
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+}
